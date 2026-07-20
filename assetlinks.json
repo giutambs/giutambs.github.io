@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.giutambs.twa",
+        "sha256_cert_fingerprints": ["10:AB:C4:95:AE:40:BD:C2:0A:0D:E8:32:DE:C1:95:0E:56:7B:54:ED:9A:CE:65:BA:BD:CE:8B:AB:27:0B:96:8B"]
+      }
+    }]
